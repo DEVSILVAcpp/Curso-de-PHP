@@ -19,7 +19,7 @@ echo "<hr>";
 
 //Count
 $totalClientes = count($clientes);
-echo $ctotalClientes;
+echo $totalClientes;
 echo "<hr>";
 
 //Foreach
